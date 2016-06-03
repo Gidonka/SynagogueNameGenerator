@@ -1,0 +1,2 @@
+# SynagogueNameGenerator
+Generates synagogue names
